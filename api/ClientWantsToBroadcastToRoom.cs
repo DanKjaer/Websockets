@@ -2,7 +2,7 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using Fleck;
 using lib;
-using ws.infrastructure.repositories;
+using api.infrastructure.repositories;
 
 namespace ws;
 

@@ -2,8 +2,8 @@ using System.Reflection;
 using Fleck;
 using lib;
 using ws;
-using ws.infrastructure;
-using ws.infrastructure.repositories;
+using api.infrastructure;
+using api.infrastructure.repositories;
 
 
 
