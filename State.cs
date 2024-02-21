@@ -1,3 +1,5 @@
+using System;
+using System.Collections.Generic;
 using Fleck;
 
 namespace ws;
@@ -5,6 +7,7 @@ namespace ws;
 public class WsWithMetaData(IWebSocketConnection connection)
 {
     public IWebSocketConnection Connection { get; set; } = connection;
+    
     public string Username { get; set; }
 }
 

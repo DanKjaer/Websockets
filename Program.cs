@@ -1,7 +1,7 @@
+using Npgsql;
 using System.Reflection;
 using Fleck;
 using lib;
-using Npgsql;
 using ws;
 using ws.infrastructure;
 using ws.infrastructure.repositories;

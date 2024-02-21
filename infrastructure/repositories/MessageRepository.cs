@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using Dapper;
 using Npgsql;
 using ws.infrastructure.datamodels;
