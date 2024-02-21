@@ -1,7 +1,7 @@
 using lib;
 using Newtonsoft.Json;
 using Websocket.Client;
-using ws;
+using api;
 using JsonSerializer = System.Text.Json.JsonSerializer;
 
 namespace Tests;

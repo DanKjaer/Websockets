@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Fleck;
 using lib;
 
-namespace ws;
+namespace api;
 
 public class ClientWantsToEnterRoomDto : BaseDto
 {

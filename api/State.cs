@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using Fleck;
 
-namespace ws;
+namespace api;
 
 public class WsWithMetaData(IWebSocketConnection connection)
 {

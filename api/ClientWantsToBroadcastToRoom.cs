@@ -4,7 +4,7 @@ using Fleck;
 using lib;
 using api.infrastructure.repositories;
 
-namespace ws;
+namespace api;
 
 public class ClientWantsToBroadcastToRoomDto : BaseDto
 {
