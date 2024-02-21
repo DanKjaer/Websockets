@@ -1,4 +1,4 @@
-namespace ws.infrastructure.datamodels;
+namespace api.infrastructure.datamodels;
 
 public class Message
 {

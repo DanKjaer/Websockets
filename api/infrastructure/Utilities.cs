@@ -1,6 +1,6 @@
 using System;
 
-namespace ws.infrastructure;
+namespace api.infrastructure;
 
 public class Utilities
 {

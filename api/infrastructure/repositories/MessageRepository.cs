@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using Dapper;
 using Npgsql;
-using ws.infrastructure.datamodels;
+using api.infrastructure.datamodels;
 
-namespace ws.infrastructure.repositories;
+namespace api.infrastructure.repositories;
 
 public class MessageRepository
 {
