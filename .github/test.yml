@@ -5,6 +5,8 @@
   jobs:
     tests:
       runs-on: ubuntu-22.04
+      env:
+        pgconn: ${{secrets.pgconn}}
       steps:
         - uses: actions/checkout@v4
         - uses: actions/setup-dotnet@v4
