@@ -10,7 +10,7 @@ public class ClientWantsToBroadcastServerDto: BaseDto
     public string messageContent { get; set; }
 }
 
-public class ClientWantsToBroadcastServer : BaseEventHandler<ClientWantsToBroadcastServerDto>
+public class ClientWantsToBroadcastToServer : BaseEventHandler<ClientWantsToBroadcastServerDto>
 {
     public override Task Handle(ClientWantsToBroadcastServerDto dto, IWebSocketConnection socket)
     {
