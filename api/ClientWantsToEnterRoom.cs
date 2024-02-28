@@ -15,7 +15,7 @@ public class ClientWantsToEnterRoomDto : BaseDto
 public class ClientWantsToEnterRoom : BaseEventHandler<ClientWantsToEnterRoomDto>
 {
     private readonly MessageRepository _chat;
-    private ClientWantsToEnterRoom(MessageRepository chat)
+    public ClientWantsToEnterRoom(MessageRepository chat)
     {
         _chat = chat;
     }

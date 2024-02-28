@@ -1,4 +1,5 @@
 using System.Reflection;
+using System.Text.Json;
 using api;
 using Fleck;
 using lib;
@@ -45,7 +46,12 @@ public static class Startup
                     await app.InvokeClientEventHandler(clientEventHandlers, ws, message);
                 }
                 catch(Exception e)
-                {   
+                {
+                    ws.Send(JsonSerializer.Serialize(new ServerSendsErrorMessageToClient()
+                    {
+                        errorMessage = e.Message
+                    }));
+                    
                     Console.WriteLine(e.Message);
                     Console.WriteLine(e.InnerException);
                     Console.WriteLine(e.StackTrace);
@@ -56,3 +62,7 @@ public static class Startup
     }
 }
 
+public class ServerSendsErrorMessageToClient : BaseDto
+{
+    public string errorMessage { get; set; }
+}

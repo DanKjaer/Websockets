@@ -10,31 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2575593d-45e2-4947-815b-c9bd237778d4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/api/ClientWantsToBroadcastToRoom.cs" beforeDir="false" afterPath="$PROJECT_DIR$/api/ClientWantsToBroadcastToRoom.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/ClientWantsToEnterRoom.cs" beforeDir="false" afterPath="$PROJECT_DIR$/api/ClientWantsToEnterRoom.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/frontend/.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/frontend/.tsbuildinfo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_common.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_common.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_common.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_core.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_core.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_core.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_core.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_forms.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_forms.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_forms.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_forms.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_platform-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_platform-browser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_platform-browser.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_platform-browser.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_router.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_router.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/@angular_router.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/_metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/chunk-27F5PL5U.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/chunk-27F5PL5U.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/chunk-J4B6MK7R.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/chunk-J4B6MK7R.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/chunk-J4B6MK7R.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/chunk-J4B6MK7R.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/chunk-KIEV44HJ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/chunk-KIEV44HJ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/chunk-X23XPKE7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/chunk-X23XPKE7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/reconnecting-websocket.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/reconnecting-websocket.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/reconnecting-websocket.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.angular/cache/17.1.1/vite/deps/reconnecting-websocket.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ws.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/ws.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/api/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,28 +30,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
-    "ts.external.directory.path": "C:\\Users\\Dan\\Documents\\GitHub\\Websockets\\frontend\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Dan\\Documents\\GitHub\\Websockets\\frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\Dan\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Dan\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\Dan\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Dan\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Dan\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Dan\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.api: http">
     <configuration name="api: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/api/api.csproj" />
@@ -131,12 +109,14 @@
       <updated>1708585877409</updated>
       <workItem from="1708585883178" duration="802000" />
       <workItem from="1708672443091" duration="6983000" />
+      <workItem from="1709107011856" duration="3850000" />
     </task>
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
     <envs>
       <env key="pgconn" value="postgres://mbvjnhpe:hW6T1X0jmUhg-TYCTthFPf2VZByrKyTa@snuffleupagus.db.elephantsql.com/mbvjnhpe" />
+      <env key="KEY" value="331afbb1ee3647fb90c0288d822d1f64" />
     </envs>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
